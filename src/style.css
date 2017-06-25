@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'main-font';
+    font-style: normal;
+    font-weight: 400;
+    src:
+      url('./tiki-tropic.ttf') format('truetype');
+}
+
+
+img {
+  border: 1px solid tomato;
+}
